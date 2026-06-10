@@ -23,7 +23,7 @@ track: "Reference"
   <div class="card">
     <h2>Study Guides & Challenges</h2>
     <ul>
-      <li><a href="{{ '/supplementary/2026-new-year-challenge/' | relative_url }}">🎯 2026 New Year Analytical Skills Challenge</a> - 8-week intensive to level up SQL, stats, Python, and storytelling</li>
+      <li><a href="{{ '/supplementary/2026-new-year-challenge/' | relative_url }}">🎯 2026 Analytical Skills Challenge (Year-Round)</a> - 8-week cohort-based curriculum with gamification for sustained adoption</li>
       <li><a href="{{ '/supplementary/21-day-prep-guide/' | relative_url }}">📅 21-Day Preparation Guide</a> - Structured 3-week study plan covering all essential topics</li>
       <li><a href="{{ '/supplementary/key-insights-tips-meta/' | relative_url }}">💡 Key Insights & Tips for Meta</a> - Meta-specific advice and common pitfalls to avoid</li>
     </ul>
@@ -141,7 +141,7 @@ track: "Reference"
         <td>Create interactive visualizations and dashboards</td>
       </tr>
       <tr>
-        <td><a href="https://datastudio.google.com/" target="_blank">Google Data Studio</a></td>
+        <td><a href="https://lookerstudio.google.com/" target="_blank">Looker Studio</a></td>
         <td>Free tool for creating reports and dashboards</td>
       </tr>
       <tr>

@@ -18,8 +18,11 @@ Choose your path to mastery. Each track is designed for specific goals and exper
 
 ## 🎯 Quick Track Finder
 
+> **New!** Not sure where to start? Use the [Role-Level Learning Path](/learning-path/) to get a personalized plan matched to your target job level (E3 → E6).
+
 | Your Situation | Recommended Track | Difficulty | Time |
 |----------------|-------------------|------------|------|
+| Know your target level (E3–E6) | [**Role-Level Learning Path**](/learning-path/) | Personalized | Varies |
 | Brand new to data science | [Data Science Foundations](#beginner) | Beginner | 4-6 weeks |
 | Interview in 3 weeks | [The 21-Day Sprint](#intermediate) | Intermediate | 21 days |
 | Product/Growth analyst role | [Product Analytics Mastery](#intermediate) | Intermediate | 6-8 weeks |
@@ -194,7 +197,7 @@ Choose your path to mastery. Each track is designed for specific goals and exper
         <li><a href="/interview-preparation/behavioral-interview/">Behavioral Interview</a></li>
         <li><a href="/interview-preparation/technical-skills/">Technical Skills</a></li>
         <li><a href="/interview-preparation/interview-day-checklist/">Interview Day Checklist</a></li>
-        <li><a href="/supplementary/2026-new-year-challenge/">2026 New Year Challenge</a></li>
+        <li><a href="/supplementary/2026-new-year-challenge/">2026 Analytical Skills Challenge (Year-Round)</a></li>
       </ul>
     </div>
   </details>
